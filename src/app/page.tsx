@@ -29,7 +29,7 @@ export default function Home() {
         <div className="py-20 mx-auto text-center flex flex-col items-center max-w-3xl">
           <h1 className=" text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
             Your market place for high quality{" "}
-            <span className=" py-2 font-bold bg-gradient-to-r from-pink-600 via-yellow-500 to-indigo-400 inline-block text-transparent bg-clip-text">
+            <span className=" py-4 font-bold bg-gradient-to-r from-pink-600 via-yellow-500 to-indigo-400 inline-block text-transparent bg-clip-text">
               digital Stuff
             </span>
             .
